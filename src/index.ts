@@ -1,1 +1,1 @@
-import "./ch1-strategy/sim-uduck.ts";
+import "./ch1-strategy/sim-uduck/index.ts";
